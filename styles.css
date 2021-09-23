@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(209, 6, 6);
   }
   
 #ul_top > li {
@@ -20,13 +20,14 @@
   
   /* Change the link color to #111 (black) on hover */
 #ul_top li > a:hover {
-    background-color: #111;
+    background-color: rgb(136, 106, 106);
   }
 
 #bilde-av-meg {
   height: 10%;
   width: 10%;
 }
+
 div.MathiasBilde {
   float: right;
   text-align: center;
