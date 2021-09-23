@@ -28,11 +28,10 @@
   width: 10%;
 }
 div.MathiasBilde {
-  vertical-align: top;
-  display: inline-block;
+  float: right;
   text-align: center;
   width: 20%;
-  float: right;
+  
 }
 
 .caption {
