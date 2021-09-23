@@ -27,7 +27,9 @@
   height: 10%;
   width: 10%;
 }
-
+#MathiasBilde > *{
+  float: right;
+}
 #MathiasBilde > img {
   height: 10%;
   width: 10%;
