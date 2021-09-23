@@ -6,11 +6,11 @@
     background-color: #333;
   }
   
-  #ul_top > li {
+#ul_top > li {
     float: left;
   }
   
-  #ul_top li > a {
+#ul_top li > a {
     display: block;
     color: white;
     text-align: center;
@@ -19,6 +19,11 @@
   }
   
   /* Change the link color to #111 (black) on hover */
-  #ul_top li > a:hover {
+#ul_top li > a:hover {
     background-color: #111;
   }
+
+#bilde-av-meg {
+  height: 10%;
+  width: 10%;
+}
