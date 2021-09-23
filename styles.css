@@ -27,6 +27,16 @@
   height: 10%;
   width: 10%;
 }
+div.MathiasBilde {
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
+  width: 20%;
+}
+
+.caption {
+  display: block;
+}
 
 #MathiasBilde > img {
   height: 10%;
