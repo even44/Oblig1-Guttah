@@ -1,4 +1,4 @@
-ul_top {
+#ul_top {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -6,11 +6,11 @@ ul_top {
     background-color: #333;
   }
   
-  ul_top > li {
+  #ul_top > li {
     float: left;
   }
   
-  ul_top li > a {
+  #ul_top li > a {
     display: block;
     color: white;
     text-align: center;
@@ -19,6 +19,6 @@ ul_top {
   }
   
   /* Change the link color to #111 (black) on hover */
-  ul li a:hover {
+  #ul_top li > a:hover {
     background-color: #111;
   }
