@@ -22,6 +22,8 @@
 #ul_top li > a:hover {
     background-color: #111;
   }
+
 #bilde-av-meg {
-  
+  height: 25px;
+  width: 25px;
 }
