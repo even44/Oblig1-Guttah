@@ -38,7 +38,7 @@ div.MathiasBilde {
   display: block;
 }
 
-#MathiasBilde > img {
+div.MathiasBilde > img {
   height: 10%;
   width: 10%;
 }
