@@ -27,3 +27,18 @@
   height: 10%;
   width: 10%;
 }
+div.MathiasBilde {
+  float: right;
+  text-align: center;
+  width: 20%;
+  
+}
+
+.caption {
+  display: block;
+}
+
+div.MathiasBilde > img {
+  height: 100%;
+  width: 100%;
+}
