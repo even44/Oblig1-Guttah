@@ -6,11 +6,11 @@ ul_top {
     background-color: #333;
   }
   
-  li_top {
+  ul_top > li {
     float: left;
   }
   
-  li_top a {
+  ul_top li > a {
     display: block;
     color: white;
     text-align: center;
@@ -19,6 +19,6 @@ ul_top {
   }
   
   /* Change the link color to #111 (black) on hover */
-  li_top a:hover {
+  ul li a:hover {
     background-color: #111;
   }
