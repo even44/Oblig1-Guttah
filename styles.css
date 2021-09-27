@@ -28,7 +28,7 @@
   width: 10%;
 }
 
-div.MathiasBilde {
+.MathiasBilde {
   float: right;
   text-align: center;
   width: 20%;
@@ -39,7 +39,7 @@ div.MathiasBilde {
   display: block;
 }
 
-div.MathiasBilde > img {
+.MathiasBilde > img {
   height: 100%;
   width: 100%;
 }
