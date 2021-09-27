@@ -55,7 +55,7 @@ body {
   width: 2%;
 }
 
-div.center {
+.main {
     margin: auto;
     width: 50%;
     border: 3px solid green;
