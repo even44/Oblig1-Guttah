@@ -76,3 +76,7 @@ main {
   width: 100%;
   height: 100%;
 }
+
+.pusur > p {
+  align-items: right;
+}
