@@ -23,6 +23,10 @@
     background-color: rgb(136, 106, 106);
   }
 
+.about {
+  float:right;
+}
+
 .bilde-av-meg {
   height: 10%;
   width: 10%;
