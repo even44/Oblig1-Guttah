@@ -67,7 +67,7 @@ main {
     box-shadow: 8px 8px 5px 1px darkgrey;
     background-color: white;
     overflow: hidden;
-    
+    font-size: 150%;
 }
 
 .AboutMyWork{
