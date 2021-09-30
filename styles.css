@@ -29,10 +29,11 @@
 }
 
 .MathiasBilde {
- float: right;
+ 
   text-align: center;
   margin: 10px 10px; 
   width: 20%;
+  float: right;
   
   
 }
@@ -65,6 +66,8 @@ main {
     padding: 2%;
     box-shadow: 8px 8px 5px 1px darkgrey;
     background-color: white;
+    overflow: hidden;
+    
 }
 
 .picture {
