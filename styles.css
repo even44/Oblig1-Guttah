@@ -31,7 +31,8 @@
 .MathiasBilde {
   float: right;
   text-align: center;
-  width: 20%;
+  margin: 10px 10px; 
+  max-width: 20%;
   
 }
 
