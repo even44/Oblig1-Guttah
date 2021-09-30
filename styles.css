@@ -70,6 +70,97 @@ main {
     
 }
 
+.AboutMyWork{
+    margin: auto;
+    margin-top: 2%;
+    width: 75%;
+    min-height: 50%;
+    padding: 2%;
+    box-shadow: 8px 8px 5px 1px darkgrey;
+    background-color: white;
+    overflow: hidden;
+    font-size: 150%;
+}
+.pusur{
+    margin: auto;
+    margin-top: 2%;
+    width: 75%;
+    min-height: 50%;
+    padding: 2%;
+    box-shadow: 8px 8px 5px 1px darkgrey;
+    background-color: white;
+    overflow: hidden;
+    
+}
+
+.pusur > h3{
+  font-size: 190%;
+  text-align: left;
+}
+.pusur > p{
+  font-size: 190%;
+  text-align: left;
+}
+
+.pusur > img {
+  width: 60%;
+  float:right;
+}
+
+.fish{
+    margin: auto;
+    margin-top: 2%;
+    width: 75%;
+    min-height: 50%;
+    padding: 2%;
+    box-shadow: 8px 8px 5px 1px darkgrey;
+    background-color: white;
+    overflow: hidden;
+}
+.fish > h3{
+  font-size: 190%;
+  text-align: left;
+}
+.fish > p {
+  font-size: 190%;
+  text-align: left;
+}
+
+.fish > img {
+  width: 60%;
+  float:left;
+}
+
+.snowman{
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 75%;
+    min-height: 50%;
+    padding: 2%;
+    box-shadow: 8px 8px 5px 1px darkgrey;
+    background-color: white;
+    overflow: hidden;
+    
+    
+    
+}
+.snowman > h3{
+  font-size: 190%;
+  text-align: left;
+}
+.snowman > p {
+  font-size: 200%;
+  text-align: left;
+}
+
+.snowman > img {
+  width: 60%;
+  float:right;
+}
+
+
+
 .picture {
   width: 100%;
   height: 100%;
