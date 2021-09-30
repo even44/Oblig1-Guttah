@@ -1,4 +1,4 @@
-#ul_top {
+.ul_top {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -6,11 +6,11 @@
     background-color: rgb(209, 6, 6);
   }
   
-#ul_top > li {
+.ul_top > li {
     float: left;
   }
   
-#ul_top li > a {
+.ul_top li > a {
     display: block;
     color: white;
     text-align: center;
@@ -19,11 +19,15 @@
   }
   
   /* Change the link color to #111 (black) on hover */
-#ul_top li > a:hover {
+.ul_top li > a:hover {
     background-color: rgb(136, 106, 106);
   }
 
-#bilde-av-meg {
+.about {
+  float:right;
+}
+
+.bilde-av-meg {
   height: 10%;
   width: 10%;
 }
@@ -67,8 +71,99 @@ main {
     box-shadow: 8px 8px 5px 1px darkgrey;
     background-color: white;
     overflow: hidden;
+    font-size: 150%;
+}
+
+.AboutMyWork{
+    margin: auto;
+    margin-top: 2%;
+    width: 75%;
+    min-height: 50%;
+    padding: 2%;
+    box-shadow: 8px 8px 5px 1px darkgrey;
+    background-color: white;
+    overflow: hidden;
+    font-size: 150%;
+}
+.pusur{
+    margin: auto;
+    margin-top: 2%;
+    width: 75%;
+    min-height: 50%;
+    padding: 2%;
+    box-shadow: 8px 8px 5px 1px darkgrey;
+    background-color: white;
+    overflow: hidden;
     
 }
+
+.pusur > h3{
+  font-size: 190%;
+  text-align: left;
+}
+.pusur > p{
+  font-size: 190%;
+  text-align: left;
+}
+
+.pusur > img {
+  width: 60%;
+  float:right;
+}
+
+.fish{
+    margin: auto;
+    margin-top: 2%;
+    width: 75%;
+    min-height: 50%;
+    padding: 2%;
+    box-shadow: 8px 8px 5px 1px darkgrey;
+    background-color: white;
+    overflow: hidden;
+}
+.fish > h3{
+  font-size: 190%;
+  text-align: left;
+}
+.fish > p {
+  font-size: 190%;
+  text-align: left;
+}
+
+.fish > img {
+  width: 60%;
+  float:left;
+}
+
+.snowman{
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 75%;
+    min-height: 50%;
+    padding: 2%;
+    box-shadow: 8px 8px 5px 1px darkgrey;
+    background-color: white;
+    overflow: hidden;
+    
+    
+    
+}
+.snowman > h3{
+  font-size: 190%;
+  text-align: left;
+}
+.snowman > p {
+  font-size: 200%;
+  text-align: left;
+}
+
+.snowman > img {
+  width: 60%;
+  float:right;
+}
+
+
 
 .picture {
   width: 100%;
